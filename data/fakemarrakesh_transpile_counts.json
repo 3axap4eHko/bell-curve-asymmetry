@@ -1,0 +1,86 @@
+{
+  "backend": "FakeMarrakesh",
+  "optimization_level": 1,
+  "basis_gates": [
+    "cz",
+    "id",
+    "rz",
+    "sx",
+    "x"
+  ],
+  "durations_ns": {
+    "sx": 36.0,
+    "x": 36.0,
+    "rz": 0.0,
+    "cz": 68.0
+  },
+  "angles_deg": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180
+  ],
+  "counts": [
+    {
+      "angle_deg": 0,
+      "sx_count": 3,
+      "x_count": 0,
+      "rz_count": 7,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 108
+    },
+    {
+      "angle_deg": 30,
+      "sx_count": 4,
+      "x_count": 0,
+      "rz_count": 6,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 144
+    },
+    {
+      "angle_deg": 60,
+      "sx_count": 4,
+      "x_count": 0,
+      "rz_count": 6,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 144
+    },
+    {
+      "angle_deg": 90,
+      "sx_count": 2,
+      "x_count": 1,
+      "rz_count": 5,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 108
+    },
+    {
+      "angle_deg": 120,
+      "sx_count": 4,
+      "x_count": 0,
+      "rz_count": 6,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 144
+    },
+    {
+      "angle_deg": 150,
+      "sx_count": 4,
+      "x_count": 0,
+      "rz_count": 6,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 144
+    },
+    {
+      "angle_deg": 180,
+      "sx_count": 3,
+      "x_count": 0,
+      "rz_count": 7,
+      "cz_count": 1,
+      "single_qubit_duration_ns": 108
+    }
+  ],
+  "max_single_qubit_duration_variation_ns": 36,
+  "differential_t2_factor_at_110us": 0.9996727808206045
+}
