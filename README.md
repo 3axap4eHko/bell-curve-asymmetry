@@ -4,6 +4,8 @@ Anomalous curve-shape deviation from the quantum singlet correlation in full ang
 
 Measurements on **ibm_fez** and **ibm_marrakesh** yield a systematic crossover shift: the quantum model with free visibility gives χ²/dof = **4.83** on ibm_marrakesh; a two-parameter deformation model gives χ²/dof = **1.41**, a Δχ² = 124.5 improvement for one additional degree of freedom. The crossover-shift parameter α = 0.470 ± 0.003 is consistent across both chips after readout error correction (Δχ² = 124.5, 1 dof, p < 10⁻²⁸, likelihood ratio test). Five candidate instrumental explanations are individually tested and none found sufficient to account for the anomaly.
 
+**Preprint:** https://doi.org/10.5281/zenodo.18949735
+
 ## Key results
 
 | Backend | Correction | QM+V χ²/dof | Model 2 α | Model 2 χ²/dof | Model 3 α | Model 3 χ²/dof |
